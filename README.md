@@ -1,9 +1,5 @@
-# Bubble Transparent Sea
-<<<<<<< HEAD
+# Bubble Transparent Sea | Landing Page
 
-=======
-
->>>>>>> c5b43a018b50023fec8614a833ddabd7197ba18f
 Landing Page with a nice animation implemented with HTML and CSS.
 
 ## Description
