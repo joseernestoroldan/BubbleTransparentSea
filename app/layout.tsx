@@ -34,7 +34,7 @@ export default function RootLayout({
       >
         <SidebarWrapper>
           <div className="w-full h-screen bg-[url('/bg.webp')] bg-cover bg-center relative overflow-hidden">
-            <div className="absolute top-0 bottom-0 left-0 right-0 bg-opacity-20 bg-black">
+            <div className="absolute top-0 bottom-0 left-0 right-0 bg-opacity-10 bg-black">
               <Navbar />
               {children}
             </div>
