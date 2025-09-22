@@ -1,6 +1,6 @@
 import { SidebarSection } from "../SidebarSection/SidebarSection";
 import { Sidebar, SidebarContent } from "../ui/sidebar";
-import { Home, Info, Map, CreditCard, BookOpen, HelpCircle, Mail, Menu } from "lucide-react"
+import { Home, Info, Map, CreditCard, BookOpen, HelpCircle, Mail,} from "lucide-react"
 
 // Menu items.
 const menuItems = [

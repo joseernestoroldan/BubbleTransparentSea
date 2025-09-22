@@ -11,6 +11,6 @@ type Story = StoryObj<typeof ActionButtons>;
 
 export const Primary: Story = {
   args: {
-     children: "Example Text",
+    // Add valid props for ActionButtons here if needed
   },
 };
